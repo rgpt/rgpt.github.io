@@ -1,0 +1,15 @@
+#navBarTop .navbar-nav .nav-item.active{
+    border-bottom: 4px solid black;
+}
+
+#navBarSocialMedia li a:hover{
+    text-shadow: 1px 2px 20px black;
+}
+
+.vertical-divider{ sol
+    text-align: center;
+    height:30px;
+    margin-left: 2%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
