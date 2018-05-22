@@ -1,0 +1,50 @@
+#skill1, #skill2, #skill3, #skill4, #skill5, #skill6, #skill7{
+    width: 15%;
+    height: 15%;
+
+}
+
+#skill1 > svg {
+    display: block;
+    background:url("/assets/img/nodejslogo.svg") no-repeat center;
+    background-size: 90% 50%;
+}
+
+#skill2 > svg {
+    display: block;
+    background:url("/assets/img/pythonlogo.png") no-repeat center;
+    background-size: 70% 70%;
+}
+
+
+#skill3 > svg {
+    display: block;
+    background:url("/assets/img/clogo.png") no-repeat center;
+    background-size: 50% 50%;
+}
+
+
+#skill4 > svg {
+    display: block;
+    background:url("/assets/img/javalogo.png") no-repeat center;
+    background-size: 30% 50%;
+}
+
+#skill5 > svg {
+    display: block;
+    background:url("/assets/img/jquerylogo.jpg") no-repeat center;
+    background-size: 50% 50%;
+}
+
+#skill6 > svg {
+    display: block;
+    background:url("/assets/img/htmllogo.png") no-repeat center;
+    background-size: 50% 50%;
+}
+
+#skill7 > svg {
+    display: block;
+    background:url("/assets/img/phplogo.png") no-repeat center;
+    background-size: 50% 40%;
+}
+
