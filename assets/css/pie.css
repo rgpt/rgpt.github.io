@@ -3,7 +3,7 @@
     height: 15%;
 }
 
-#skill1> svg:hover, #skill2> svg:hover, #skill3> svg:hover, #skill4> svg:hover, #skill5> svg:hover, #skill6> svg:hover, #skill7 > svg:hover{
+#skill1> svg:hover, #skill2> svg:hover, #skill3> svg:hover, #skill4> svg:hover, #skill5> svg:hover, #skill6> svg:hover, #skill7 > svg:hover, #skill8 > svg:hover{
   background-color: #bdbfbd;
   border-radius: 100%;
 }
