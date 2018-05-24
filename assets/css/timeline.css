@@ -140,6 +140,7 @@
 .timeline-body > p,
 .timeline-body > ul {
     margin-bottom: 0;
+    font-size: 80%;
 }
 
 .timeline-body > p + p {

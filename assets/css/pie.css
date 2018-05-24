@@ -1,4 +1,4 @@
-#skill1, #skill2, #skill3, #skill4, #skill5, #skill6, #skill7{
+#skill1, #skill2, #skill3, #skill4, #skill5, #skill6, #skill7, #skill8{
     width: 15%;
     height: 15%;
 }
@@ -50,5 +50,11 @@
     display: block;
     background:url("/assets/img/phplogo.png") no-repeat center;
     background-size: 50% 40%;
+}
+
+#skill8 > svg {
+    display: block;
+    background:url("/assets/img/mongodblogo.png") no-repeat center;
+    background-size: 40% 40%;
 }
 

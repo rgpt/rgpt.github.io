@@ -26,6 +26,23 @@
     font-size: 250%;
 }
 
+.download-btn{
+  text-decoration: none;
+  background-color: #2f2c2c;
+  border: none;
+  color: #ffffff;
+  padding: 2% 2%;
+  cursor: pointer;
+  font-size: 70%;
+  border-radius: 0;
+}
+
+.download-btn:hover{
+    background-color: #565252;
+    color: #ffffff;
+    font-size:  69%
+}
+
 body{
 	font-family: Roboto;
 	font-size: 150%;
